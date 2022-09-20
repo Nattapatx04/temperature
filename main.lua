@@ -1,4 +1,4 @@
-year,temperature-h,temperature-l
+Year,Temperature-High,Temperature-Low
 2546,38.6,18.1
 2547,39.4,19.5
 2548,38.1,17.8
